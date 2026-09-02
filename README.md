@@ -5,7 +5,7 @@ That's it quite short about me:
 - 🔭 I’m currently working on my own website, lncluding the listing of my interesting projects.
 - 🌱 I’m currently learning Solr.
 - 👯 I’m looking to collaborate on TYPO3 and other web-projects.
-- 🤔 I’m looking for help with project-related sponsorships / donations.
+- 🤔 I’m looking for help with project-related jobs / sponsorships / donations.
 - 💬 Ask me about anything interesting.
 - 📫 How to reach me: david.bruchmann@gmail.com
 - 😄 Pronouns: Just he/him
